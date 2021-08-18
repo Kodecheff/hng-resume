@@ -49,6 +49,13 @@ h3{
   margin-top: 10px;
 }
 
+#projects h6{
+  color: rgb(2, 2, 49);
+  margin-top: 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.336);
+  width: fit-content;
+}
+
 @media screen and (max-width: 450px) {
   .resume-name{
     margin-left: 0px;
